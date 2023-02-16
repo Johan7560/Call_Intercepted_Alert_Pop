@@ -1,0 +1,28 @@
+body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.toastIcon {
+	font-size: 14px;
+	margin-right: 4px;
+}
+
+.toastHeader {
+	font-size: 18px;
+}
+
+.toastTime {
+	font-size: 13px;
+	margin-left: 15px;
+}
+
+.toast {
+	color: white;
+	background-color: black;
+}
+
+.toastBottom {
+	font-size: 16px;
+}
